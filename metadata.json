@@ -1,0 +1,7 @@
+{
+  "name": "AntiScam AI",
+  "description": "A real-time voice fraud detection and legal intelligence platform that identifies scam risks and generates legal documentation based on Thai law.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
